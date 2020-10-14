@@ -6,7 +6,7 @@
 нет)
 
 ### Материалы:
-* [Ссылка на датасет:](https://drive.google.com/file/d/1lL9XWBR_3F4xozizi0aOEfrIVqqNcKw/view?usp=sharing).
+* [Ссылка на датасет](https://drive.google.com/file/d/1lL9XWBR_3F4xozizi0aOEfrIVqqNcKw/view?usp=sharing).
 ### Описание датасета:
 * Датасет описывает некоторую зависимость числа bugs от
 значений repository_name, commit_hash, commit_date,
